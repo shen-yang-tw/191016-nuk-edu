@@ -186,6 +186,7 @@ ol.listDecimalRow.badge>li:before {background: #f19217;}
 }
 /* body.index {background-image: url(../img/bg.png); background-repeat: repeat-y; background-position: right center;} */
 #header .uk-container {max-width: inherit;}
+#header * {color: black  !important;}
 
 .uk-list .uk-offcanvas.uk-active>div>div:first-child {display: none;}
 
