@@ -193,6 +193,10 @@ ol.listDecimalRow.badge>li:before {background: #ff9933;}
 .logo {display: flex;}
 .logo img {max-height: 30px;}
 
+.banner>.bg_img>.uk-cover-background {
+    background-position-x: 20%;
+}
+
 footer, footer a {color: white !important;}
 
 /* Uikit Style
@@ -267,6 +271,10 @@ footer, footer a {color: white !important;}
 .page .searchBar[data-uk-sticky].uk-active {
   left: calc(50% - 1150px/2);
   max-width: 1150px !important;
+}
+
+.banner>.bg_img>.uk-cover-background {
+    background-position-x: center;
 }
 
 }
